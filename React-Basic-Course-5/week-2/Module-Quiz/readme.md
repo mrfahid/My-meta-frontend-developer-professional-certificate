@@ -1,0 +1,6 @@
+![](/React-Basic-Course-5/week-2/Module-Quiz/Screenshot%20(8).png)
+![](/React-Basic-Course-5/week-2/Module-Quiz/Screenshot%20(9).png)
+![](/React-Basic-Course-5/week-2/Module-Quiz/Screenshot%20(10).png)
+![](/React-Basic-Course-5/week-2/Module-Quiz/Screenshot%20(11).png)
+![](/React-Basic-Course-5/week-2/Module-Quiz/Screenshot%20(12).png)
+![](/React-Basic-Course-5/week-2/Module-Quiz/Screenshot%20(13).png)
