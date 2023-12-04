@@ -1,6 +1,6 @@
 # Meta Front End React Basic Course - Simplest Calculator App
 
-![Meta Front End React Basic Course Certificate](/img.png)
+![Meta Front End React Basic Course Certificate](./img.png)
 
 Welcome to the combined repository showcasing my work during the Meta Front End React Basic Course and the Simplest Calculator App project.
 
@@ -32,7 +32,7 @@ This React application provides a simple calculator interface with basic arithme
 
 ### Certificate
 
-![Meta Front End React Basic Course Certificate](/img.png)
+![Meta Front End React Basic Course Certificate](./img.png)
 
 ### Getting Started
 
